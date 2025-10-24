@@ -17,6 +17,8 @@ $result = [];
 //}
 
 
+
+
 foreach ($arr1 as $item) {
     if (!in_array($item, $result)) {
         $result[] = $item;
